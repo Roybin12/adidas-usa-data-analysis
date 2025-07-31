@@ -109,10 +109,12 @@ ipython>=7.0.0          # Enhanced Python shell
 ## 📊 Dataset Information
 
 - **Size**: 845 products × 21 features
-- **Source**: Kaggle(Web-scraped e-commerce data (October 2021))
+- **Source**: Kaggle Dataset - Web-scraped e-commerce data (October 2021)
 - **Coverage**: US market Adidas products
 - **Categories**: Shoes, Clothing, Accessories
 - **Demographics**: Men, Women, Kids
+
+**Dataset Credit**: https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod/data
 
 ## 🔧 Setup & Installation
 
@@ -138,9 +140,16 @@ jupyter notebook
 
 Feel free to submit issues, feature requests, or pull requests to improve this analysis.
 
-## 📄 License
+## 📄 License & Usage
 
-This project is available under the MIT License.
+- **Code**: Free to use for educational and research purposes
+- **Dataset**: Please refer to original Kaggle dataset terms and conditions
+- **Commercial Use**: Contact for permissions
+
+## 🙏 Acknowledgments
+
+- Dataset provided by The Devastator on Kaggle
+- This project was completed as part of Industrial Engineering & Management - Data Science track
 
 ---
 
