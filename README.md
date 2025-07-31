@@ -152,5 +152,7 @@ Feel free to submit issues, feature requests, or pull requests to improve this a
 - This project was completed as part of Industrial Engineering & Management - Data Science track
 
 ---
+## Dashboard Preview
+<img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/1e05b94a-a6de-4284-841b-3fa953067eb9" />
 
 *This analysis demonstrates advanced data science techniques applied to real-world business problems, providing actionable insights for strategic decision-making.*
