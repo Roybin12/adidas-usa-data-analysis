@@ -153,6 +153,7 @@ Feel free to submit issues, feature requests, or pull requests to improve this a
 
 ---
 ## Dashboard Preview
+https://public.tableau.com/views/Book2_17539981268580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/1e05b94a-a6de-4284-841b-3fa953067eb9" />
 
 *This analysis demonstrates advanced data science techniques applied to real-world business problems, providing actionable insights for strategic decision-making.*
